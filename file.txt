@@ -1,1 +1,1 @@
-hello
+javascript:alert(1);
